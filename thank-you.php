@@ -120,22 +120,29 @@
     <div class="footer__wrapper">
         <div class="container">
           <footer class="footer">
+            <p style="padding-top: 16px; font-size: 12px; margin-bottom: 2rem">
+              *Any statements on this site or any materials or supplements distributed or sold by
+              <span class="js_website-name"></span> has not been evaluated by the Food and Drug Administration (FDA).
+              This product is not intended to diagnose, treat, cure or prevent any disease. If you are pregnant,
+              nursing, taking medication, or have a history of heart conditions we suggest consulting with a physician
+              before using any of our products. The results on all products are not typical and not everyone will
+              experience these results.
+            </p>
             <div class="footer__policies">
               <div class="footer__block">
                 <p class="footer__title">Pages</p>
                 <ul class="sub-list">
                   <li class="item">
-                    <a href="./contacts.html" class="footer__link"
-                      >Contact Us</a
-                    >
+                    <a href="./contacts.html" class="footer__link">Contact Us</a>
                   </li>
                   <li class="item">
                     <a href="./use.html" class="footer__link">Terms of Use</a>
                   </li>
                   <li class="item">
-                    <a href="./purchase.html" class="footer__link"
-                      >Terms of Purchase</a
-                    >
+                    <a href="./purchase.html" class="footer__link">Terms of Purchase</a>
+                  </li>
+                  <li class="item">
+                    <a href="./ingredients.html" class="footer__link">Ingredients</a>
                   </li>
                 </ul>
               </div>
@@ -143,21 +150,14 @@
                 <p class="footer__title">Policies</p>
                 <ul class="sub-list">
                   <li class="item">
-                    <a href="./privacy.html" class="footer__link"
-                      >Privacy Notice</a
-                    >
+                    <a href="./privacy.html" class="footer__link">Privacy Notice</a>
                   </li>
                   <li class="item">
-                    <a href="./shipping.html" class="footer__link"
-                      >Shipping Policy</a
-                    >
+                    <a href="./shipping.html" class="footer__link">Shipping Policy</a>
                   </li>
                   <li class="item">
-                    <a href="./return.html" class="footer__link"
-                      >Return Policy</a
-                    >
+                    <a href="./return.html" class="footer__link">Return Policy</a>
                   </li>
-               
                 </ul>
               </div>
               <div class="footer__block">
@@ -177,10 +177,7 @@
               <div class="footer__block footer__block--rg">
                 <ul class="sub-list">
                   <li class="item">
-                    <a
-                      href="./index.html"
-                      class="footer__logo logo js_website-name"
-                    ></a>
+                    <a href="./index.html" class="footer__logo logo js_website-name"></a>
                   </li>
                   <li class="item">
                     <p class="text text--mb js_website-corp"></p>
